@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17c19acc-96dd-4b31-a0af-d483db0737c5": {
+      "ProjectGuid": "17c19acc-96dd-4b31-a0af-d483db0737c5",
+      "DisplayName": "GeekShopping.OrderAPI",
+      "ColorIndex": 0
+    },
+    "fddb28ba-35e7-4d5b-884d-f5bc0efe865e": {
+      "ProjectGuid": "fddb28ba-35e7-4d5b-884d-f5bc0efe865e",
+      "DisplayName": "GeekShopping.CartAPI",
+      "ColorIndex": 1
+    },
+    "5f676414-a1e7-4180-96f6-c7479b1100a8": {
+      "ProjectGuid": "5f676414-a1e7-4180-96f6-c7479b1100a8",
+      "DisplayName": "GeekShopping.Web",
+      "ColorIndex": 2
+    },
+    "de6245b3-4c70-47a8-861c-78d8d302174f": {
+      "ProjectGuid": "de6245b3-4c70-47a8-861c-78d8d302174f",
+      "DisplayName": "GeekShopping.MessageBus",
+      "ColorIndex": 3
+    },
+    "f992e499-bd5e-40fd-8bef-0079ef92c5bf": {
+      "ProjectGuid": "f992e499-bd5e-40fd-8bef-0079ef92c5bf",
+      "DisplayName": "GeekShopping.Web",
+      "ColorIndex": 4
+    },
+    "5f0602d3-339d-4009-af9e-45a4943b7be1": {
+      "ProjectGuid": "5f0602d3-339d-4009-af9e-45a4943b7be1",
+      "DisplayName": "GeekShopping.Web",
+      "ColorIndex": 5
+    },
+    "85d4039e-9a6d-4472-91fd-60e05eee3587": {
+      "ProjectGuid": "85d4039e-9a6d-4472-91fd-60e05eee3587",
+      "DisplayName": "GeekShopping.ProductAPI",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

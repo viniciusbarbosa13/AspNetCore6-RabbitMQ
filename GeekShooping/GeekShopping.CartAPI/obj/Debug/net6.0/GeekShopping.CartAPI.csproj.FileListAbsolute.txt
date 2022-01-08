@@ -1,0 +1,311 @@
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.exe
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.CartAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S13_ErudioMicroservices.NET6-DevelopingShoppingCartMicrosservices\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.exe
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.CartAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S14_ErudioMicroservices.NET6-ConsumingShoppingCartMicrosservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.exe
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.CartAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S17_ErudioMicroservices.NET6-ConsumingGeekShopping.CouponAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.exe
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.CartAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S18_ErudioMicroservices.NET6-IntegratingCheckout\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.exe
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.CartAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.exe
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.CartAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartAPI.styles.css
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CopyComplete
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
