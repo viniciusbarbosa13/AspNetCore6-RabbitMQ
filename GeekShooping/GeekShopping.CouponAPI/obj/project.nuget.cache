@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J2mDV6a0E19KeZRKs+BwNX6h+GZ4GqtcAKRUXXim7MSLH39mN4CJ4cGqU93bCJhltGDcYbfCHtVjzyXFRpXp5w==",
+  "dgSpecHash": "nPdzqtk60F//Rb2rAzDyX/GqUasD5fzbgNlhEqqk7Kqra4csjcwVZQ7e6PNF+5Xmu/JQcmY+nETZCT5Iw3mENQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\\GeekShooping\\GeekShopping.CouponAPI\\GeekShopping.CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\\AspNetCore6-RabbitMQ\\GeekShooping\\GeekShopping.CouponAPI\\GeekShopping.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinic\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

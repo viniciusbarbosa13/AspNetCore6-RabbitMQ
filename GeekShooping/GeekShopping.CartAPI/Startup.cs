@@ -45,8 +45,8 @@ namespace GeekShopping.CartAPI
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             services.AddScoped<ICartRepository, CartRepository>();
-
             services.AddSingleton<IRabbitMQMessageSender, RabbitMQMessageSender>();
+
             services.AddControllers();
 
             services.AddAuthentication("Bearer")

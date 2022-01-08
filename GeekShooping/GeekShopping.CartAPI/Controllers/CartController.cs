@@ -84,11 +84,17 @@ namespace GeekShopping.CartAPI.Controllers
             if (cart == null) return NotFound();
             vo.CartDetails = cart.CartDetails;
             vo.DateTime = DateTime.Now;
+            try
+            {
+                _rabbitMQMessageSender.SendMessage(vo, "checkoutqueue");
+                return Ok(vo);
 
+            }catch (Exception ex)
+            {
+                throw ex;
+            }
             // RabbitMQ logic comes here!!!
-            _rabbitMQMessageSender.SendMessage(vo, "checkoutqueue");
 
-            return Ok(vo);
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qXj6kmkCe7cBek5wPMqkrPBjIFcGI2uInkA+Kl/bQDqTq3n4KRzlEmoA6yyeh1R341Vww7Lyq4wXPWZcpzOZag==",
+  "dgSpecHash": "+HyAAkCe5/eBAQ/ZO5pcY1gMVRy4vhZBxy6eI8+qFy90q2uoUq7rD8Cpi7Km7Z85zw2Amz3x7s2ZplojlXy/dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\\GeekShooping\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\\AspNetCore6-RabbitMQ\\GeekShooping\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinic\\.nuget\\packages\\duende.identityserver\\5.2.2\\duende.identityserver.5.2.2.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\duende.identityserver.aspnetidentity\\5.2.2\\duende.identityserver.aspnetidentity.5.2.2.nupkg.sha512",
