@@ -10,27 +10,15 @@ D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMic
 D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.dll
 D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\ref\GeekShopping.MessageBus.dll
 D:\Code\erudio-microservices-dotnet6\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.pdb
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.deps.json
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.dll
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\ref\GeekShopping.MessageBus.dll
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.AssemblyReference.cache
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfoInputs.cache
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfo.cs
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.CoreCompileInputs.cache
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.dll
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\ref\GeekShopping.MessageBus.dll
-D:\Code\erudio-microservices-dotnet6\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.pdb
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.deps.json
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.dll
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\ref\GeekShopping.MessageBus.dll
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.AssemblyReference.cache
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfoInputs.cache
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfo.cs
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.CoreCompileInputs.cache
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.dll
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\ref\GeekShopping.MessageBus.dll
-C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\ref\GeekShopping.MessageBus.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\ref\GeekShopping.MessageBus.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.pdb

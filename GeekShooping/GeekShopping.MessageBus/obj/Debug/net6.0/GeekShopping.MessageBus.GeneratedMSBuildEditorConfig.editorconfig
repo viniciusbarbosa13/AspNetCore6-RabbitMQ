@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GeekShopping.MessageBus
-build_property.ProjectDir = C:\Users\vinic\OneDrive\Área de Trabalho\S21_ErudioMicroservices.NET6-CreatingOrderAPIMicroservice\AspNetCore6-RabbitMQ\GeekShooping\GeekShopping.MessageBus\
+build_property.ProjectDir = C:\Users\vinic\OneDrive\Área de Trabalho\S20_ErudioMicroservices.NET6-IntegratingMicroservicesToRabbitMQ\GeekShooping\GeekShopping.MessageBus\
